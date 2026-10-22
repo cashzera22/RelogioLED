@@ -40,7 +40,7 @@ public class RelogioLED {
         Scanner sc = new Scanner(System.in);
 
         // Ler os dados
-        String horario = sc.nextLine().trim();
+        String horario = sc.nextLine();
 
         int X = sc.nextInt();
         int Y = sc.nextInt();
